@@ -14,4 +14,4 @@
  *   To do: deprecate next major.
  */
 
-export {fromMarkdown} from './lib/index.js'
+export {fromMarkdown, compiler} from './lib/index.js'

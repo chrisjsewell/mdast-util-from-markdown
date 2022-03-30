@@ -1,7 +1,7 @@
 {
-  "name": "mdast-util-from-markdown",
+  "name": "mdtoken-to-mdast",
   "version": "1.2.0",
-  "description": "mdast utility to parse markdown",
+  "description": "mdast utility to compile micromark tokens",
   "license": "MIT",
   "keywords": [
     "unist",
@@ -16,12 +16,7 @@
     "tree",
     "ast"
   ],
-  "repository": "syntax-tree/mdast-util-from-markdown",
-  "bugs": "https://github.com/syntax-tree/mdast-util-from-markdown/issues",
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/unified"
-  },
+  "repository": "chrisjsewell/mdast-util-from-markdown",
   "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"

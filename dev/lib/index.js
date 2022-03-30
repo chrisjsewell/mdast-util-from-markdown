@@ -136,7 +136,7 @@ export const fromMarkdown =
  *
  * @param {Options} [options]
  */
-function compiler(options = {}) {
+export function compiler(options = {}) {
   /** @type {NormalizedExtension} */
   // @ts-expect-error: our base has all required fields, so the result will too.
   const config = configure(
